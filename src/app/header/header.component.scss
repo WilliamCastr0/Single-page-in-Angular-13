@@ -87,12 +87,6 @@ height: 32px;
 padding: 1rem;
 background-color: #FFF;
 }
-main > figure > figcaption {
-margin: 1rem;
-color: #FFF;
-font-size: 1.25em;
-position: absolute;
-}
 
 #folders {
 margin-top: 0.5rem;
@@ -131,7 +125,7 @@ transform: scale(1.02);
     display: block;
 }
 
-.container {
+.card-body {
     padding: 2px 16px;
 }
 

@@ -20,3 +20,6 @@ Para la elaboración del proyecto se hizo uso de ayudas situadas en las siguient
     https://designicode.com/2021/06/09/como-crear-un-layout-base-en-angular/
     https://angular.io/api/router/Router
 
+## Consideraciones
+
+Para la elaboración del proyecto se implementó la metodología Kanban en Jira; Angular 13; Angular Router; Git y diseño Web Responsive.

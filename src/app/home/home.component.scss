@@ -1,6 +1,7 @@
 main {
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(222,222,242,1) 57%, rgba(176,193,196,1) 100%);
+    max-width: 100%;
 }
 
 * {

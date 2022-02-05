@@ -18,7 +18,6 @@ touch-action: none;
     font-family: "Open Sans", sans-serif;
 }
 
-
 body {
 margin: 0;
 padding: 0;
@@ -129,8 +128,116 @@ transform: scale(1.02);
     padding: 2px 16px;
 }
 
+.buttons-user {
+    position: fixed;
+	transition: all 300ms ease 0ms;
+}
+
+.btn {
+	transition: 0.3s linear;
+	background:  #809fff;
+	border-radius: 5px;
+    position: fixed;
+    bottom: 400px;
+	right: 0px;
+    overflow: hidden;
+	cursor: pointer;
+	outline: none;
+	border: none;
+	color: #eee;
+	padding: 0;
+	margin: 0;
+    animation-name: slide;
+    animation-duration: 1.5s;
+    &.down{
+        bottom: 340px;
+        right: 0px;
+        animation-name: slide;
+        animation-duration: 1.5s;
+    }
+}
+
+.btn:hover{
+	background: #1a66ff;
+    bottom: 400px;
+	right: 15px;
+    &.down{
+        background: #1a66ff;
+    bottom: 340px;
+	right: 20px;
+    }
+}
+
+.btn span {
+	font-family: "Open Sans", sans-serif;
+	transition: transform 0.3s;
+	display: inline-block;
+    padding: 5px 15px;
+	font-size: 1.2em;
+	margin: 0;
+    &.down {
+        font-family: "Open Sans", sans-serif;
+        transition: transform 0.3s;
+        display: inline-block;
+        padding: 5px 15px;
+        font-size: 1.2em;
+        margin: 0;
+    }
+	
+}
+
+.btn .add-icon{
+	background: #333;
+	border: 0;
+	margin: 0;
+}
+.btn .information-icon {
+    background: #333;
+	border: 0;
+	margin: 0;
+}
+
+.btn .add-icon {
+    bottom: 0px;
+	right: 0px;
+    position: absolute;
+	background: #333;
+	z-index: 1;
+    left: 0;
+    top: 0;
+}
+
+.btn .information-icon {
+    bottom: 0px;
+	right: 0px;
+    position: absolute;
+	background: #333;
+	z-index: 1;
+    left: 0;
+    top: 0;
+}
+
+.btn .create {z-index: 3; font-weight: bolder;}
+.btn .info {z-index: 3; font-weight: bolder;}
+
+.btn:hover .add-icon {
+    transform: translateX(250%);
+}
+
+.btn:hover .information-icon {
+    transform: translateX(250%);
+}
+
 footer {
 width: 100%;
 height: 8rem;
 }
 
+@keyframes slide {
+    from {
+        transform: translate(100%, 0);
+    }
+    to {
+        transform: translate(0, 0);
+    }
+}

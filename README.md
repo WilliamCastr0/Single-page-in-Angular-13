@@ -22,4 +22,4 @@ Para la elaboración del proyecto se hizo uso de ayudas situadas en las siguient
 
 ## Consideraciones
 
-Para la elaboración del proyecto se implementó la metodología Kanban en Jira; Angular 13; Angular Router; Git y diseño Web Responsive.
+Para la elaboración del proyecto se implementó la metodología Kanban en Jira; Angular 13; Angular Router; Gi; SCSS y diseño Web Responsive.

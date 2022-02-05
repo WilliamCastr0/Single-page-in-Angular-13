@@ -1,27 +1,22 @@
-# B
+# Books & Books Challenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Este proyecto fue realizado con [Angular CLI](https://github.com/angular/angular-cli) en la version 13.1.2.
 
-## Development server
+## Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<a href="https://ibb.co/LhP9tSc"><img src="https://i.ibb.co/sJPswjN/Books-Books-Demo.gif" alt="Books-Books-Demo" border="0"></a>
 
-## Code scaffolding
+## Servidor de desarrollo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para iniciar el proyecto ejecuta el comando `ng serve` desde la raíz de la carpeta. Una vez compilado, puedes ejecutar el layout en `http://localhost:4200/`.
 
-## Build
+## Usos externos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para la elaboración del proyecto se hizo uso de ayudas situadas en las siguientes páginas:
 
-## Running unit tests
+    https://freefrontend.com/ 
+    https://tabler-icons.io/
+    https://imgbb.com/upload
+    https://designicode.com/2021/06/09/como-crear-un-layout-base-en-angular/
+    https://angular.io/api/router/Router
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

@@ -4,7 +4,7 @@ Este proyecto fue realizado con [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-<a href="https://ibb.co/LhP9tSc"><img src="https://i.ibb.co/sJPswjN/Books-Books-Demo.gif" alt="Books-Books-Demo" border="0"></a>
+<a href="https://ibb.co/fMRf81k"><img src="https://i.ibb.co/6YhzvnH/Books-Books-Demo.gif" alt="Books-Books-Demo" border="0"></a>
 
 ## Servidor de desarrollo
 

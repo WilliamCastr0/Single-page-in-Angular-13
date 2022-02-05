@@ -12,14 +12,14 @@ Para iniciar el proyecto ejecuta el comando `ng serve` desde la raíz de la carp
 
 ## Usos externos
 
-Para la elaboración del proyecto se hizo uso de ayudas situadas en las siguientes páginas:
+Para la elaboración del proyecto se implementaron ayudas situadas en las siguientes páginas:
 
     https://freefrontend.com/ 
     https://tabler-icons.io/
-    https://imgbb.com/upload
+    https://cloudinary.com/
     https://designicode.com/2021/06/09/como-crear-un-layout-base-en-angular/
     https://angular.io/api/router/Router
 
 ## Consideraciones
 
-Para la elaboración del proyecto se implementó la metodología Kanban en Jira; Angular 13; Angular Router; Gi; SCSS y diseño Web Responsive.
+Para la elaboración del proyecto se implementó la metodología Kanban en Jira; Angular 13; Angular Router; Git; SCSS y diseño Web Responsive.

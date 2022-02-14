@@ -1,4 +1,4 @@
-# Books & Books Challenge
+# Diseño de página sencilla con Angular 13
 
 Este proyecto fue realizado con [Angular CLI](https://github.com/angular/angular-cli) en la version 13.1.2.
 
